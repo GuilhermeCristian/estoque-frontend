@@ -85,6 +85,7 @@ export const Background = styled.div`
 
     img {
       width: 25%;
+      height: 20%;
     }
     h3 {
       font-size: 1rem;
