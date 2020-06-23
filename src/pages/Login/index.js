@@ -25,8 +25,8 @@ function Login({ isLoggedIn }) {
 
   return (
     <Background>
-      <div class="box">
-        <div class="box-content">
+      <div className="box">
+        <div className="box-content">
           <img src={logo} alt="Logo" />
           <h3>PRODUTOS</h3>
           <label>Login:</label>
